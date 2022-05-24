@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 '''
 Given three real numbers aa, bb, cc. Write a program that finds the real roots of a quadratic equation
 ax ^ 2 + bx + c = 0.
@@ -29,10 +23,4 @@ elif z==0:
     print(-b/(2*a))
 else:
     print("Нет корней")
-
-
-# In[ ]:
-
-
-
-
+    
